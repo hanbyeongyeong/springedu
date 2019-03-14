@@ -26,6 +26,7 @@ SpringEdu
 * 웹페이지 연습을 위해 만든 게시판 웹
 * 회원,게시글,댓글의 CRUD기능 사용 가능
 * 개발자 :한병영
+* 관련영상: https://www.youtube.com/watch?v=mftLh7eTREE&feature=youtu.be
 
 <hr>
 
